@@ -1,0 +1,54 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/home/nicolastorres/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar:/home/nicolastorres/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar:/home/nicolastorres/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/nicolastorres/NetBeansProjects/WebServer/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'WebServer-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/nicolastorres/NetBeansProjects/WebServer/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'WebServer-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.webserver.resources
+com.mycompany.webserver
+servlet
+model
+controller
+config
+/home/nicolastorres/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar = 1504711420000
+/home/nicolastorres/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar = 1500321346000
+/home/nicolastorres/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar = 1146612027000
+/home/nicolastorres/NetBeansProjects/WebServer/src/main/java = 1722445303077
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/package-list = 1722446105286
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/overview-frame.html = 1722446105288
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/constant-values.html = 1722446105317
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/serialized-form.html = 1722446105322
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/overview-tree.html = 1722446105365
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/index-all.html = 1722446105370
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/deprecated-list.html = 1722446105373
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/allclasses-frame.html = 1722446105375
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/allclasses-noframe.html = 1722446105376
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/index.html = 1722446105377
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/overview-summary.html = 1722446105379
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/help-doc.html = 1722446105382
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/stylesheet.css = 1722446105384
+/home/nicolastorres/NetBeansProjects/WebServer/target/site/apidocs/script.js = 1722446105385
